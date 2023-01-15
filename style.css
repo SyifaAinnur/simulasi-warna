@@ -9,7 +9,6 @@ body{
     font-weight: 300;
     font-size: 1.05rem;
     color: #222;
-    overflow: hidden;
 }
 header{
     background: #f9f9f9;
@@ -77,6 +76,9 @@ img{
         width: 40%;
         position: fixed;
         right: 0;
+    }
+        body{
+        overflow: hidden;
     }
 }
     
