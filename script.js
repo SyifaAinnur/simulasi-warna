@@ -20,5 +20,5 @@ function resetActiveBtns(){
 
 // set new color on the banner right 
 function setNewColor(color){
-    document.querySelector('.banner-right img').src = `images/web_${color}2.png`;
+    document.querySelector('.banner-right img').src = `images/web_${color}3.png`;
 }
